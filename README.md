@@ -1,25 +1,24 @@
 # simple-portfolio
 A simple static portfolio application designed with Bootstrap framework.
 
-You can check my portfolio at https://rohiton.github.io
+You can check my portfolio designed with this at https://rohiton.github.io
 
 ## How to create a portfolio similar to this?
-To create a portfolio with similar design, just follow up the below steps:
 
-1. Create a repository on github with the name similar to this, {your-github-username}.github.io eg: rohiton.github.io
-2. Now clone this repository using this command, git clone https://github.com/rohiton/simple-portfolio 
+1. Create a repository on github with the name similar to this, {github-username}.github.io eg: rohiton.github.io
+2. Now clone this repository using this command, `git clone https://github.com/rohiton/simple-portfolio`
 3. Inside the clonned project, delete the .git directory
-4. Run the below commands to push this repository to your repository
+4. Run the below commands to push the code to your repository
 
+```
 git init
 git add .
 git remote add origin {git-repo-origin}
 git commit -m "first-commit"
 git push -f origin master
+```
 
-This will push the code to your newly created repository.
-
-You can check your portfolio now at {git-username}.github.io
+This will push the code to your newly created repository and you can check your portfolio now at {git-username}.github.io
 
 Note: It'll take some time to host your static pages.
 
