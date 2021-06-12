@@ -1,8 +1,6 @@
 # simple-portfolio
 A simple static portfolio application designed with Bootstrap framework.
 
-You can check my portfolio designed with this at https://rohiton.github.io
-
 ## How to create a portfolio similar to this?
 
 1. Create a repository on github with the name similar to this, {github-username}.github.io eg: rohiton.github.io
